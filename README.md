@@ -72,6 +72,7 @@ The notebook `Tf-idf + Logistic Regresion.ipynb` demonstrates a classical ML pip
 - **Fake Review Detection**: Distinguishes between fake and real reviews.
 - **Product Category Classification**: Assigns reviews to product categories.
 - **Confusion Matrices**: Visualized for each task to show model performance.
+![Bar chart](https://github.com/user-attachments/assets/6c285682-56e9-44b7-aeed-f6bbc5fca2fc)
 
 ---
 
